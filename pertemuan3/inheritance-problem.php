@@ -28,9 +28,9 @@ class Produk {
         $str = "{$this->tipe} : {$this->judul} | {$this->getLabel()} (Rp. {$this->harga})";
 
         if ($this->tipe == "Komik") {
-            $str .=  " - {$this->jmlH alaman} Halaman.";
-        }else if ($this->tipe == "Game ") {
-            $str .= "~ {$this->waktumain} Jam.";
+            $str .=  " - {$this->jmlHalaman} Halaman.";
+        }else if ($this->tipe == "Game") {
+            $str .= " ~  {$this->waktumain} Jam.";
         }
 
         return $str;

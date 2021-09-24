@@ -7,7 +7,7 @@ Danu Mardiko
 193040104
 https://github.com/danumardiko/prakweb2021_oophp_193040104
 Pertemuan 3  24 september 2021
-Mengerjakan tugas 1
+Mengerjakan tugas 2
 */ 
 ?>
 <?php
